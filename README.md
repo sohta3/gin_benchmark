@@ -1,4 +1,6 @@
 # gin_benchmark
+* Go 1.5.2
+* Gin 1.0rc2
 
 ```
 $ go run test.go
